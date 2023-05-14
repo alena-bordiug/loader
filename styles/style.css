@@ -10,8 +10,9 @@ body {
   height: 40px;
   width: 40px;
   border-radius: 50%;
-  background-color: #02ff9c;
+  background-color: #000;
   margin-right: 24px;
+  transform: scale(0);
   animation: scaling 2.5s ease-in-out infinite;
 }
 
